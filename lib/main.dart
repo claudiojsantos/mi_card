@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                   "ANALISTAS DE SISTEMAS",
                   style: TextStyle(
                       color: Colors.teal.shade100,
-                      fontSize: 20.0,
+                      fontSize: 18.0,
                       fontFamily: 'SourceSansPro',
                       letterSpacing: 2.5,
                       fontWeight: FontWeight.bold),
@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                       fontFamily: 'Source Sans Pro',
                       color: Colors.teal.shade100,
-                      fontSize: 20.0,
+                      fontSize: 18.0,
                       letterSpacing: 2.5,
                       fontWeight: FontWeight.bold),
                 ),
